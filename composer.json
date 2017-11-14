@@ -1,0 +1,14 @@
+{
+    "name": "wagner.lingenover/git_treinamento",
+    "description": "meu treinamento git",
+    "authors": [
+        {
+            "name": "Wagner Lingenover",
+            "email": "wagner.lingenover@rentcars.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "illuminate/support": "^5.4"
+    }
+}
