@@ -9,6 +9,7 @@
     ],
     "require": {
         "monolog/monolog": "^1.23",
-        "illuminate/support": "^5.4"
+        "illuminate/support": "^5.4",
+        "symfony/var-dumper": "^3.3"
     }
 }
